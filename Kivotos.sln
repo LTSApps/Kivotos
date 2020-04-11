@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kivotos", "Kivotos\Kivotos.csproj", "{64FEB2F2-AB68-42BC-84D7-B869CB63C288}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ksetup", "ksetup\ksetup.vdproj", "{3FC23F3D-3445-4ED5-852E-E3C52728B120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FEB2F2-AB68-42BC-84D7-B869CB63C288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FEB2F2-AB68-42BC-84D7-B869CB63C288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FEB2F2-AB68-42BC-84D7-B869CB63C288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FEB2F2-AB68-42BC-84D7-B869CB63C288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC23F3D-3445-4ED5-852E-E3C52728B120}.Debug|Any CPU.ActiveCfg = Debug
+		{3FC23F3D-3445-4ED5-852E-E3C52728B120}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FD8AE8-3651-4134-AEA7-709D654ABD78}
+	EndGlobalSection
+EndGlobal
